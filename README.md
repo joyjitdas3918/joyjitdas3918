@@ -1,7 +1,9 @@
-<div align="center">
-    <a href="https://github.com/joyjitdas98" target="_blank">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+    <a href="https://github.com/joyjitdas3918" target="_blank">
         <img
-            src="[Your Profile Picture URL]"
+            src="https://media.licdn.com/dms/image/v2/D4E03AQHDoC6Uj8Xscw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725519214622?e=1749686400&v=beta&t=q3QmewIomt-fIcGoJnY9HWMcjenxFMEQUHEn24FdHuI"
             alt="Joyjit Das"
             width="150"
             height="150"
@@ -22,27 +24,27 @@
               ">
         Software Development Engineer | Passionate about crafting efficient and scalable solutions.
     </p>
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
 
-    <p align="center">
-        <a href="mailto:joyjitdas3918@gmail.com" target="_blank">
-            <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-        </a>
-        <a href="[Your LinkedIn Profile URL]" target="_blank">
-            <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-        </a>
-         <a href="[Your LeetCode Profile URL]" target="_blank">
+<p align="center">
+<a href="https://www.linkedin.com/in/joyjit-das/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="https://www.instagram.com/joyjit_codes/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+</p>
+<a href="[Your LeetCode Profile URL]" target="_blank">
             <img  height="50" src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat-square" alt="LeetCode">
-        </a>
-        <a href="[Your CodeChef Profile URL]" target="_blank">
+</a>
+<a href="[Your CodeChef Profile URL]" target="_blank">
             <img height="50" src="https://img.shields.io/badge/CodeChef-Profile-orange?style=flat-square" alt="CodeChef">
-        </a>
-        <a href="[Your Codeforces Profile URL]" target="_blank">
+</a>
+<a href="[Your Codeforces Profile URL]" target="_blank">
             <img height="50" src="https://img.shields.io/badge/Codeforces-Profile-red?style=flat-square" alt="Codeforces">
-        </a>
-        <a href="[Your Portfolio URL (if you have one)]" target="_blank">
-            <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-        </a>
-    </p>
+</a>
 </div>
 
 <hr style="border: 1px solid #e0e0e0;">
