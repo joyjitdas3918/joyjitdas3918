@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
+
     <a href="https://github.com/joyjitdas3918" target="_blank">
         <img
             src="https://media.licdn.com/dms/image/v2/D4E03AQHDoC6Uj8Xscw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725519214622?e=1749686400&v=beta&t=q3QmewIomt-fIcGoJnY9HWMcjenxFMEQUHEn24FdHuI"
@@ -24,6 +24,7 @@
               ">
         Software Development Engineer | Passionate about crafting efficient and scalable solutions.
     </p>
+</p>
 <h1 align="center">
   Let's Connect and have a Chat!💬
 </h1>
