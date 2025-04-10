@@ -7,24 +7,22 @@
              style="border-radius: 50%;
                     border: 3px solid #64b5f6; /* A nice blue */
                     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow */
-                    animation: pulse 2s infinite alternate;"
+                    /* Keyframe animations in <style> won't work reliably in README */
+                    /* Let's stick to simpler effects */
+                    transition: transform 0.3s ease-in-out;"
+             onmouseover="this.style.transform='scale(1.05)'"
+             onmouseout="this.style.transform='scale(1)'"
         >
     </a>
     <h1 align="center" style="color: #2e7d32; /* A vibrant green */
-                       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-                       animation: fadeIn 1s ease-in-out;">
+                       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
         ✨ Joyjit Das ✨
     </h1>
     <p align="center" style="color: #546e7a; /* A dark grey */
-                       font-style: italic;
-                       animation: fadeIn 1s ease-in-out 0.5s, typing 2.5s steps(40, end), blink-caret .75s step-end infinite;
-                       white-space: nowrap;
-                       overflow: hidden;
-                       border-right: 0.15em solid #546e7a;">
+                       font-style: italic;">
         🚀 Software Development Engineer | Crafting Efficient and Scalable Solutions 💡
     </p>
-    <h2 align="center" style="color: #ffb300; /* A warm amber */
-                           animation: fadeInUp 1s ease-in-out 1s;">
+    <h2 align="center" style="color: #ffb300; /* A warm amber */">
         Let's Connect and Chat! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30">
     </h2>
     <p align="center">
@@ -48,12 +46,11 @@
 <hr style="border: 2px solid #90caf9; /* A lighter blue */ border-radius: 5px;">
 
 <h2 style="color: #00acc1; /* A teal color */
-                   font-size: 1.7em;
-                   animation: slideInLeft 1s ease-in-out;">
+                   font-size: 1.7em;">
     <img src="https://img.icons8.com/ios-filled/40/000000/source-code.png" align="left" width="40" height="40" style="margin-right: 10px;">
     👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests
 </h2>
-<div style="animation: slideInRight 1s ease-in-out; padding: 15px; background-color: #f5f5f5; border-radius: 8px; box-shadow: 2px 2px 5px #ccc;">
+<div style="padding: 15px; background-color: #f5f5f5; border-radius: 8px; box-shadow: 2px 2px 5px #ccc;">
     <p style="color: #424242;">
         👋 Hi there! I'm currently working as a Software Development Engineer at <a href="https://www2.deloitte.com/in/en.html" target="_blank" style="color: #1976d2; text-decoration: none;">HashedIn by Deloitte</a>, where I contribute to building impactful and innovative projects.
     </p>
@@ -89,18 +86,17 @@
     </pre>
 </div>
 <h2 style="color: #00acc1; /* A teal color */
-                   font-size: 1.7em;
-                   animation: slideInLeft 1s ease-in-out;">
+                   font-size: 1.7em;">
     <img src="https://img.icons8.com/ios-filled/40/000000/console.png" align="left" width="40" height="40" style="margin-right: 10px;">
     🚀 &nbsp;Some Tools I Have Used and Learned
 </h2>
-<p align="left" style="animation: fadeIn 1s ease-in-out 0.8s; padding-left: 15px;">
+<p align="left" style="padding-left: 15px;">
     <a href="https://www.java.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a>
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/> </a>
     <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/> </a>
-    <a href="https://spring.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="45" height="45" /> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original-wordmark.svg" alt="spring boot" width="45" height="45" /> </a>
+    <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="45" height="45" /> </a>
+    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="45" height="45" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" /> </a>
     <a href="https://react.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" /> </a>
     <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" /> </a>
@@ -120,8 +116,13 @@
 <hr style="border: 2px solid #90caf9; /* A lighter blue */ border-radius: 5px;">
 
 <div align="center">
-    <p style="color: #78909c; font-size: 1.1em; animation: fadeIn 1s ease-in-out 1.2s;">
+    <p style="color: #78909c; font-size: 1.1em;">
         🙏 Thank you for visiting my GitHub profile! Let's connect and build amazing things together. ✨
     </p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/astronaut.gif" width="80">
 </div>
+
+<style>
+/* Keyframe animations defined here won't work reliably in GitHub READMEs */
+/* We'll focus on simpler, inline-compatible effects */
+</style>
