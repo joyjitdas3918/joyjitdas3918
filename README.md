@@ -34,13 +34,13 @@
         <a href="https://www.instagram.com/joyjit_codes/">
             <img height="50" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
         </a>
-        <a href="[Your LeetCode Profile URL]" target="_blank">
+        <a href="https://leetcode.com/joyjit_codes/" target="_blank">
             <img height="50" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
         </a>
-        <a href="[Your CodeChef Profile URL]" target="_blank">
+        <a href="https://www.codechef.com/users/joyjit_das" target="_blank">
             <img height="50" src="https://img.shields.io/badge/CodeChef-%23ED7717.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
         </a>
-        <a href="[Your Codeforces Profile URL]" target="_blank">
+        <a href="https://codeforces.com/profile/peter_griffin_codes" target="_blank">
             <img height="50" src="https://img.shields.io/badge/Codeforces-%234CAF50.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces">
         </a>
     </p>
@@ -50,7 +50,7 @@
 <h2 style="color: #00acc1; /* A teal color */
                    font-size: 1.7em;
                    animation: slideInLeft 1s ease-in-out;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/code/code-badge.svg" align="left" width="40" height="40" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/ios-filled/40/000000/source-code.png" align="left" width="40" height="40" style="margin-right: 10px;">
     👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests
 </h2>
 <div style="animation: slideInRight 1s ease-in-out; padding: 15px; background-color: #f5f5f5; border-radius: 8px; box-shadow: 2px 2px 5px #ccc;">
@@ -91,7 +91,7 @@
 <h2 style="color: #00acc1; /* A teal color */
                    font-size: 1.7em;
                    animation: slideInLeft 1s ease-in-out;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terminal/terminal-badge.svg" align="left" width="40" height="40" style="margin-right: 10px;">
+    <img src="https://img.icons8.com/ios-filled/40/000000/console.png" align="left" width="40" height="40" style="margin-right: 10px;">
     🚀 &nbsp;Some Tools I Have Used and Learned
 </h2>
 <p align="left" style="animation: fadeIn 1s ease-in-out 0.8s; padding-left: 15px;">
@@ -125,4 +125,3 @@
     </p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/astronaut.gif" width="80">
 </div>
-
