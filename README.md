@@ -33,7 +33,6 @@
 <a href="https://www.instagram.com/joyjit_codes/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-</p>
 <a href="[Your LeetCode Profile URL]" target="_blank">
             <img  height="50" src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat-square" alt="LeetCode">
 </a>
@@ -43,6 +42,8 @@
 <a href="[Your Codeforces Profile URL]" target="_blank">
             <img height="50" src="https://img.shields.io/badge/Codeforces-Profile-red?style=flat-square" alt="Codeforces">
 </a>
+    
+</p>
 </div>
 <hr style="border: 1px solid #e0e0e0;">
 
@@ -69,20 +70,20 @@
     company: HashedIn by Deloitte
     fields_of_interests:
         [
-        "Web Development",
+        "Java",
         "Microservices",
-        "Distributed Systems",
-        "AI/ML",
+        "Kafka",
+        "Redis",
         ]
     technical_background:
         [
-        "Full Stack Development",
+        "Data Structures and Algorithm"
         "Backend Development",
         "System Design",
         ]
-    currently_learning: ["Advanced Distributed Systems", "SRE"]
-    2024 Goals: ["Become a better Engineer", "Contribute to Open Source"]
-    hobbies: ["Chess", "Reading", "Coding", "Badminton"]
+    currently_learning: ["JAVA Microservices Architecture", "Kafka and Redis"]
+    2025 Goals: ["Become a better Engineer", "Building scalable APIs"]
+    hobbies: ["Cinephile", "Coding", "Musical Instruments", "Chess", "Travel"]
     </code>
 </pre>
 </div>
@@ -119,37 +120,3 @@
     <p style="color: #7f8c8d;">Thank you for visiting my GitHub profile! Feel free to connect with me.</p>
 </div>
 
-<style>
-/* Keyframes remain here */
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-  100% { transform: scale(1); }
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-
-@keyframes slideInLeft {
-  from { transform: translateX(-100%); opacity: 0; }
-  to { transform: translateX(0); opacity: 1; }
-}
-
-@keyframes slideInRight {
-  from { transform: translateX(100%); opacity: 0; }
-  to { transform: translateX(0); opacity: 1; }
-}
-/* Typing animation */
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-
-/* Blink cursor animation */
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: #7f8c8d; }
-}
-</style>
