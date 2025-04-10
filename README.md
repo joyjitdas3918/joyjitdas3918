@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-
-    <a href="https://github.com/joyjitdas3918" target="_blank">
+</p>
+    <a align="center" href="https://github.com/joyjitdas3918" target="_blank">
         <img
             src="https://media.licdn.com/dms/image/v2/D4E03AQHDoC6Uj8Xscw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725519214622?e=1749686400&v=beta&t=q3QmewIomt-fIcGoJnY9HWMcjenxFMEQUHEn24FdHuI"
             alt="Joyjit Das"
@@ -12,11 +12,11 @@
                    animation: pulse 2s infinite alternate;"
         >
     </a>
-    <h1 style="color: #2c3e50;
+    <h1 align="center" style="color: #2c3e50;
                animation: fadeIn 1s ease-in-out;">
         Joyjit Das
     </h1>
-    <p style="color: #7f8c8d;
+    <p align="center" style="color: #7f8c8d;
               animation: fadeIn 1s ease-in-out 0.5s, typing 2.5s steps(40, end), blink-caret .75s step-end infinite;
               white-space: nowrap;
               overflow: hidden;
