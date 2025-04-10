@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
     <a align="center" href="https://github.com/joyjitdas3918" target="_blank">
-        <img
+        <img align="center"
             src="https://media.licdn.com/dms/image/v2/D4E03AQHDoC6Uj8Xscw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725519214622?e=1749686400&v=beta&t=q3QmewIomt-fIcGoJnY9HWMcjenxFMEQUHEn24FdHuI"
             alt="Joyjit Das"
             width="150"
