@@ -7,38 +7,40 @@
             height="150"
             style="border-radius: 50%;
                    border: 2px solid #00b8d4;
-                   animation: pulse 2s infinite alternate;"  >
+                   animation: pulse 2s infinite alternate;"
+        >
     </a>
     <h1 style="color: #2c3e50;
-               animation: fadeIn 1s ease-in-out;">       Joyjit Das
+               animation: fadeIn 1s ease-in-out;">
+        Joyjit Das
     </h1>
     <p style="color: #7f8c8d;
-              animation: fadeIn 1s ease-in-out 0.5s;  white-space: nowrap;
+              animation: fadeIn 1s ease-in-out 0.5s, typing 2.5s steps(40, end), blink-caret .75s step-end infinite;
+              white-space: nowrap;
               overflow: hidden;
-              border-right: 0.15em solid #7f8c8d; /* The typing cursor */
-              animation: typing 2.5s steps(40, end), /* Typing animation */
-                         blink-caret .75s step-end infinite;">
+              border-right: 0.15em solid #7f8c8d;
+              ">
         Software Development Engineer | Passionate about crafting efficient and scalable solutions.
     </p>
 
-    <p>
+    <p align="center">
         <a href="mailto:joyjitdas3918@gmail.com" target="_blank">
-            <img src="https://img.shields.io/badge/Email-joyjitdas3918@gmail.com-brightgreen?style=flat-square" alt="Email">
+            <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
         </a>
         <a href="[Your LinkedIn Profile URL]" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square" alt="LinkedIn">
+            <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
         </a>
          <a href="[Your LeetCode Profile URL]" target="_blank">
-            <img src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat-square" alt="LeetCode">
+            <img  height="50" src="https://img.shields.io/badge/LeetCode-Profile-yellow?style=flat-square" alt="LeetCode">
         </a>
         <a href="[Your CodeChef Profile URL]" target="_blank">
-            <img src="https://img.shields.io/badge/CodeChef-Profile-orange?style=flat-square" alt="CodeChef">
+            <img height="50" src="https://img.shields.io/badge/CodeChef-Profile-orange?style=flat-square" alt="CodeChef">
         </a>
         <a href="[Your Codeforces Profile URL]" target="_blank">
-            <img src="https://img.shields.io/badge/Codeforces-Profile-red?style=flat-square" alt="Codeforces">
+            <img height="50" src="https://img.shields.io/badge/Codeforces-Profile-red?style=flat-square" alt="Codeforces">
         </a>
         <a href="[Your Portfolio URL (if you have one)]" target="_blank">
-            <img src="https://img.shields.io/badge/Portfolio-Website-lightgrey?style=flat-square" alt="Portfolio">
+            <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
         </a>
     </p>
 </div>
@@ -46,59 +48,70 @@
 <hr style="border: 1px solid #e0e0e0;">
 
 <h2 style="color: #3498db;
-               animation: slideInLeft 1s ease-in-out;">  📍 Current Focus
+               animation: slideInLeft 1s ease-in-out;">
+    👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests
 </h2>
-<p style="color: #555555;
-              animation: slideInRight 1s ease-in-out;"> I'm currently working as a Software Development Engineer at HashedIn by Deloitte, contributing to impactful projects. My focus is on:
-    <ul style="list-style-type: disc; color: #555555;">
-        <li>Optimizing microservices architecture for enhanced performance and scalability.</li>
-        <li>Developing and integrating AI-powered solutions to solve complex challenges.</li>
-        <li>Applying best practices in software development to deliver high-quality, maintainable code.</li>
-    </ul>
+<div style="animation: slideInRight 1s ease-in-out;">
+<p style="color: #555555;">
+    I'm currently working as a Software Development Engineer at HashedIn by Deloitte, contributing to impactful projects.
 </p>
-
-<h2 style="color: #3498db;
-               animation: slideInLeft 1s ease-in-out;">  🛠️ Tech Stack
-</h2>
-<p style="color: #555555;
-               animation: slideInRight 1s ease-in-out;"> Here are some of the technologies I'm proficient in:
+<p style="color: #555555;">
+    Here's a quick overview:
 </p>
-<div style="display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-            justify-content: center;
-            animation: fadeIn 1s ease-in-out 0.8s;">  <img src="https://img.shields.io/badge/Java-8-orange?style=for-the-badge&logo=java" alt="Java">
-    <img src="https://img.shields.io/badge/C/C++-blue?style=for-the-badge&logo=c%2B%2B" alt="C/C++">
-    <img src="https://img.shields.io/badge/Python-3-yellow?style=for-the-badge&logo=python" alt="Python">
-    <img src="https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=spring" alt="Spring Boot">
-    <img src="https://img.shields.io/badge/Apache_Kafka-black?style=for-the-badge&logo=apache-kafka" alt="Apache Kafka">
-    <img src="https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis" alt="Redis">
-    <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" alt="MySQL">
-    <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb" alt="MongoDB">
-    <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker" alt="Docker">
-    <img src="https://img.shields.io/badge/Kubernetes-blueviolet?style=for-the-badge&logo=kubernetes" alt="Kubernetes">
-    <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazon-aws" alt="AWS">
-    <img src="https://img.shields.io/badge/GCP-blue?style=for-the-badge&logo=google-cloud" alt="GCP">
+<pre style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; color:#555555;">
+    <code>
+    name: Joyjit Das
+    located_in: Kolkata, West Bengal, India
+    current_job: Software Development Engineer
+    education:
+        [
+        "Maulana Abul Kalam Azad University of Technology, West Bengal"
+        ]
+    company: HashedIn by Deloitte
+    fields_of_interests:
+        [
+        "Web Development",
+        "Microservices",
+        "Distributed Systems",
+        "AI/ML",
+        ]
+    technical_background:
+        [
+        "Full Stack Development",
+        "Backend Development",
+        "System Design",
+        ]
+    currently_learning: ["Advanced Distributed Systems", "SRE"]
+    2024 Goals: ["Become a better Engineer", "Contribute to Open Source"]
+    hobbies: ["Chess", "Reading", "Coding", "Badminton"]
+    </code>
+</pre>
 </div>
-
 <h2 style="color: #3498db;
-               animation: slideInLeft 1s ease-in-out;">  🏆 Notable Achievements
+               animation: slideInLeft 1s ease-in-out;">
+    🚀 &nbsp;Some Tools I Have Used and Learned
 </h2>
-<p style="color: #555555;
-              animation: slideInRight 1s ease-in-out;"> Here are a few highlights from my journey:
-</p>
-<ul style="list-style-type: disc; color: #555555;">
-    <li  style="animation: fadeIn 1s ease-in-out 1.2s;">Ranked 51st out of 22k+ participants in Leetcode Weekly Contest 399.</li>
-    <li  style="animation: fadeIn 1s ease-in-out 1.4s;">Achieved 4-star rating at CodeChef.</li>
-    <li  style="animation: fadeIn 1s ease-in-out 1.6s;">Attained expert status on Codeforces.</li>
-    <li  style="animation: fadeIn 1s ease-in-out 1.8s;">Secured rank 48th out of 400K+ participants in Codevita Season 11 (Round 1).</li>
-</ul>
-
-<h2 style="color: #3498db;
-               animation: slideInLeft 1s ease-in-out;">  🎓 Education
-</h2>
-<p style="color: #555555;
-              animation: slideInRight 1s ease-in-out;"> I hold a Bachelor of Technology degree in Information Technology from Maulana Abul Kalam Azad University of Technology, West Bengal, with a GPA of 9.54/10.
+<p align="left" style="animation: fadeIn 1s ease-in-out 0.8s;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="45" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original-wordmark.svg" alt="spring boot" width="45" height="45" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" alt="confluence" width="45" height="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" width="45" height="45"/>
 </p>
 
 <hr style="border: 1px solid #e0e0e0;">
@@ -108,6 +121,7 @@
 </div>
 
 <style>
+/* Keyframes remain here */
 @keyframes pulse {
   0% { transform: scale(1); }
   50% { transform: scale(1.1); }
