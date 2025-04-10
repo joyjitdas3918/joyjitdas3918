@@ -20,34 +20,45 @@
 
 #### 👨‍💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,python" height="40"/>
+  <img src="https://skillicons.dev/icons?i=java" height="25"/> Java (Java 8) &nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" height="25"/> C/C++ &nbsp;
+  <img src="https://skillicons.dev/icons?i=python" height="25"/> Python
 </p>
 
 #### ⚙️ Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,redis,kafka,maven" height="40"/>
-  <img src="https://img.shields.io/badge/Microservices-000?style=for-the-badge&logo=micro&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Batch-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="25"/> Spring Boot &nbsp;
+  <img src="https://skillicons.dev/icons?i=kafka" height="25"/> Apache Kafka &nbsp;
+  <img src="https://skillicons.dev/icons?i=redis" height="25"/> Redis &nbsp;
+  <img src="https://skillicons.dev/icons?i=maven" height="25"/> Maven &nbsp;
+  <img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat&logo=spring&logoColor=white"/> Spring Batch &nbsp;
+  <img src="https://img.shields.io/badge/Microservices-000000?style=flat"/> Microservices &nbsp;
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black"/> Swagger (OpenAPI) &nbsp;
+  <img src="https://img.shields.io/badge/LangChain-000000?style=flat"/> LangChain &nbsp;
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=flat"/> LangGraph &nbsp;
+  <img src="https://img.shields.io/badge/CrewAI-000000?style=flat"/> CrewAI &nbsp;
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/> OpenAI &nbsp;
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/> Jira &nbsp;
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white"/> Confluence
 </p>
 
 #### 🛢️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="40"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neo4j_AuraDB-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="25"/> MySQL &nbsp;
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/> Oracle &nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" height="25"/> PostgreSQL &nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="25"/> MongoDB &nbsp;
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white"/> DynamoDB &nbsp;
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat&logo=apache-cassandra&logoColor=white"/> Cassandra &nbsp;
+  <img src="https://img.shields.io/badge/Neo4j%20AuraDB-008CC1?style=flat&logo=neo4j&logoColor=white"/> Neo4j AuraDB
 </p>
 
 #### ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="25"/> Docker &nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="25"/> Kubernetes &nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" height="25"/> AWS &nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp" height="25"/> GCP
 </p>
 
 ---
