@@ -152,4 +152,43 @@
         <img src="https://img.icons8.com/color/45/microservices.png" alt="microservices" title="Microservices">
         <img src="https://www.vectorlogo.zone/logos/springframework/springframework-icon.svg" alt="springbatch" width="45" height="45" style="filter: drop-shadow(0 0 5px #64b5f6);" title="Spring Batch">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="maven" width="45" height="45" style="filter: drop-shadow(0 0 5px #4dd0e1);" title="Maven">
-        <img src="https://raw.githubusercontent.com/swagger-api/swagger-
+        <img src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/src/assets/logo_small.png" alt="swagger" width="45" height="45" title="Swagger (Open API)">
+        <img src="https://raw.githubusercontent.com/langchain-ai/langchain/v0.1.10/docs/static/img/lc_logo.png" alt="langchain" width="45" height="45" title="LangChain">
+        <img src="https://raw.githubusercontent.com/langchain-ai/langchain/v0.1.10/docs/static/img/lc_logo.png" alt="langgraph" width="45" height="45" title="LangGraph">
+        <img src="https://raw.githubusercontent.com/crewAI/crewAI/main/docs/assets/logo.png" alt="crewai" width="45" height="45" title="CrewAI">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/OpenAI_Logo.svg/512px-OpenAI_Logo.svg.png" alt="openai" width="45" height="45" title="OpenAI">
+        <img src="https://cdn.worldvectorlogo.com/logos/jira.svg" alt="jira" width="45" height="45" title="Jira">
+        <img src="https://www.atlassian.com/dam/jcr:51f075dc-1f54-48bc-b26d-44513f0e9a93/confluence-white.svg" alt="confluence" width="45" height="45" title="Confluence">
+    </p>
+
+    <h3 style="color: #b2ff59;">&#x1F4C0; Databases</h3>
+    <p align="left" style="padding-left: 15px;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45" style="filter: drop-shadow(0 0 5px #b2ff59);" title="MySQL">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="45" height="45" style="filter: drop-shadow(0 0 5px #4dd0e1);" title="Oracle">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45" style="filter: drop-shadow(0 0 5px #64b5f6);" title="PostgreSQL">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45" style="filter: drop-shadow(0 0 5px #aed581);" title="MongoDB">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="dynamodb" width="45" height="45" style="filter: drop-shadow(0 0 5px #b2ff59);" title="DynamoDB">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachecassandra/apachecassandra-original-wordmark.svg" alt="cassandra" width="45" height="45" style="filter: drop-shadow(0 0 5px #4dd0e1);" title="Cassandra">
+        <img src="https://neo4j.com/wp-content/uploads/2023/08/Neo4j_AuraDB_Horizontal_Color.svg" alt="neo4j" width="70" title="neo4j AuraDB">
+    </p>
+
+    <h3 style="color: #b2ff59;">&#x1F680; DevOps & Cloud</h3>
+    <p align="left" style="padding-left: 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45" style="filter: drop-shadow(0 0 5px #b2ff59);" title="Docker">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45" style="filter: drop-shadow(0 0 5px #4dd0e1);" title="Kubernetes">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45" style="filter: drop-shadow(0 0 5px #64b5f6);" title="Amazon Web Services (AWS)">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="45" height="45" style="filter: drop-shadow(0 0 5px #4dd0e1);" title="Google Cloud Platform (GCP)">
+    </p>
+
+    <h3 style="color: #b2ff59;">&#x1F4CA; Skillset</h3>
+    <p style="color: #aed581;">
+        My current proficiency levels in key areas:
+    </p>
+    <p align="center">
+        <img src="https://progress-bar-svg-portable.vercel.app/?label=Java&value=80&max=100&color=b2ff59" alt="Java Proficiency">
+        <img src="https://progress-bar-svg-portable.vercel.app/?label=Microservices&value=60&max=100&color=4dd0e1" alt="Microservices Proficiency">
+        <img src="https://progress-bar-svg-portable.vercel.app/?label=Redis&value=60&max=100&color=aed581" alt="Redis Proficiency">
+        <img src="https://progress-bar-svg-portable.vercel.app/?label=Kafka&value=80&max=100&color=64b5f6" alt="Kafka Proficiency">
+        <img src="https://progress-bar-svg-portable.vercel.app/?label=SQL&value=80&max=100&color=b2ff59" alt="SQL Proficiency">
+    </p>
+</div>
