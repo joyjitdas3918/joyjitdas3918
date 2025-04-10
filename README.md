@@ -63,10 +63,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=joyjitdas3918&theme=radical&hide_border=false" alt="Joyjit's GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyjitdas3918&layout=compact&theme=radical&hide_border=false" alt="Joyjit's Top Languages" />
 </p>
 
