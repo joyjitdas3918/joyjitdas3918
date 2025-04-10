@@ -45,7 +45,6 @@
 <a href="[Your Codeforces Profile URL]" target="_blank">
             <img height="50" src="https://img.shields.io/badge/Codeforces-Profile-red?style=flat-square" alt="Codeforces">
 </a>
-</div>
 
 <hr style="border: 1px solid #e0e0e0;">
 
