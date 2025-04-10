@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F8F8F2&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Joyjit+Das.;Software+Development+Engineer;Java+Backend+%7C+Kafka+%7C+Redis+%7C+System+Design;DSA+%7C+Open+Source+%7C+Cinephile+%7C+Traveller" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Joyjit+Das.;Software+Development+Engineer;Java+Backend+%7C+Kafka+%7C+Redis+%7C+System+Design;DSA+%7C+Open+Source+%7C+Cinephile+%7C+Traveller" alt="Typing SVG" />
 </p>
+
 ---
 
 ## 🧠 About Me
