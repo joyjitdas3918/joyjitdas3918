@@ -189,7 +189,6 @@
         <img src="https://progress-bar-svg-portable.vercel.app/?label=Kafka&value=80&max=100&color=64b5f6" alt="Kafka Proficiency">
         <img src="https://progress-bar-svg-portable.vercel.app/?label=SQL&value=80&max=100&color=b2ff59" alt="SQL Proficiency">
     </p>
-</div>0e1);" title="Maven">
         <img src="https://raw.githubusercontent.com/swagger-api/swagger-ui/master/src/assets/logo_small.png" alt="swagger" width="45" height="45" title="Swagger (Open API)">
         <img src="https://raw.githubusercontent.com/langchain-ai/langchain/v0.1.10/docs/static/img/lc_logo.png" alt="langchain" width="45" height="45" title="LangChain">
         <img src="https://raw.githubusercontent.com/langchain-ai/langchain/v0.1.10/docs/static/img/lc_logo.png" alt="langgraph" width="45" height="45" title="LangGraph">
