@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
+<div align="center">
     <a align="center" href="https://github.com/joyjitdas3918" target="_blank">
         <img align="center"
             src="https://media.licdn.com/dms/image/v2/D4E03AQHDoC6Uj8Xscw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1725519214622?e=1749686400&v=beta&t=q3QmewIomt-fIcGoJnY9HWMcjenxFMEQUHEn24FdHuI"
@@ -45,7 +43,7 @@
 <a href="[Your Codeforces Profile URL]" target="_blank">
             <img height="50" src="https://img.shields.io/badge/Codeforces-Profile-red?style=flat-square" alt="Codeforces">
 </a>
-
+</div>
 <hr style="border: 1px solid #e0e0e0;">
 
 <h2 style="color: #3498db;
