@@ -89,16 +89,14 @@
 </h2>
 <div style="background-color: #212121; color: #e0e0e0; padding: 15px; border-radius: 8px; box-shadow: 0 0 5px #333;">
     <p style="color: #aed581;">
-        Visualizing my proficiency in key technologies I'm currently working with:
+        Visualizing my proficiency in key technologies:
     </p>
     <p align="center">
-        <img src="https://via.placeholder.com/300x150/4dd0e1/000000?Text=Java" alt="Java Proficiency" style="margin-right: 10px; border-radius: 5px;">
-        <img src="https://via.placeholder.com/300x150/64b5f6/000000?Text=Microservices" alt="Microservices Proficiency" style="margin-right: 10px; border-radius: 5px;">
-        <img src="https://via.placeholder.com/300x150/aed581/000000?Text=Kafka" alt="Kafka Proficiency" style="margin-right: 10px; border-radius: 5px;">
-        <img src="https://via.placeholder.com/300x150/b2ff59/000000?Text=Redis" alt="Redis Proficiency" style="border-radius: 5px;">
-    </p>
-    <p style="color: #9e9e9e; font-size: 0.9em;">
-        *(Note: These are illustrative graphs. You'll need to generate and host your actual skill graphs and replace the placeholder URLs.)*
+        <img src="https://progress-bar-svg-portable.vercel.app/?label=Java&value=80&max=100&color=b2ff59" alt="Java Proficiency">
+        <img src="https://progress-bar-svg-portable.vercel.app/?label=Microservices&value=60&max=100&color=4dd0e1" alt="Microservices Proficiency">
+        <img src="https://progress-bar-svg-portable.vercel.app/?label=Redis&value=60&max=100&color=aed581" alt="Redis Proficiency">
+        <img src="https://progress-bar-svg-portable.vercel.app/?label=Kafka&value=80&max=100&color=64b5f6" alt="Kafka Proficiency">
+        <img src="https://progress-bar-svg-portable.vercel.app/?label=SQL&value=80&max=100&color=b2ff59" alt="SQL Proficiency">
     </p>
 </div>
 
@@ -113,15 +111,18 @@
         Tracking my progress and achievements in competitive programming platforms:
     </p>
     <p align="center">
-        <img src="https://img.shields.io/badge/Codeforces-Expert-%23C3E88D?style=for-the-badge&logo=codeforces&logoColor=black" alt="Codeforces Expert">
-        <img src="https://img.shields.io/badge/Rating-1604-%23C3E88D?style=flat-square" alt="Codeforces Rating">
-        <img src="https://img.shields.io/badge/LeetCode-Knight-%2380CBC4?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Knight">
-        <img src="https://img.shields.io/badge/Rating-2137-%2380CBC4?style=flat-square" alt="LeetCode Rating">
-        <img src="https://img.shields.io/badge/CodeChef-4%20Star-%23F08080?style=for-the-badge&logo=codechef&logoColor=black" alt="CodeChef 4 Star">
-        <img src="https://img.shields.io/badge/Rating-1969-%23F08080?style=flat-square" alt="CodeChef Rating">
-    </p>
-    <p style="color: #9e9e9e; font-size: 0.9em;">
-        *(Note: The color of the "Expert", "Knight", and "4 Star" badges reflects the general tier color for better visual representation.)*
+        <a href="https://codeforces.com/profile/peter_griffin_codes" target="_blank">
+            <img src="https://img.shields.io/badge/Codeforces-Expert-%23C3E88D?style=for-the-badge&logo=codeforces&logoColor=black" alt="Codeforces Expert">
+            <img src="https://img.shields.io/badge/Rating-1604-%23C3E88D?style=flat-square" alt="Codeforces Rating">
+        </a>
+        <a href="https://leetcode.com/joyjit_codes/" target="_blank">
+            <img src="https://img.shields.io/badge/LeetCode-Knight-%2380CBC4?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Knight">
+            <img src="https://img.shields.io/badge/Rating-2137-%2380CBC4?style=flat-square" alt="LeetCode Rating">
+        </a>
+        <a href="https://www.codechef.com/users/joyjit_das" target="_blank">
+            <img src="https://img.shields.io/badge/CodeChef-4%20Star-%23F08080?style=for-the-badge&logo=codechef&logoColor=black" alt="CodeChef 4 Star">
+            <img src="https://img.shields.io/badge/Rating-1969-%23F08080?style=flat-square" alt="CodeChef Rating">
+        </a>
     </p>
 </div>
 
@@ -131,13 +132,24 @@
     <img src="https://img.icons8.com/ios-filled/40/f0f0f0/console.png" align="left" width="40" style="margin-right: 10px;">
     <span style="color: #64b5f6;">&#9632;</span> Tech Stack & Skills <span style="color: #64b5f6;">&#9632;</span>
 </h2>
-<p align="left" style="padding-left: 15px;">
-    <a href="https://www.java.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45" style="filter: drop-shadow(0 0 5px #b2ff59);"> </a>
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45" style="filter: drop-shadow(0 0 5px #aed581);"> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45" style="filter: drop-shadow(0 0 5px #64b5f6);"> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" style="filter: drop-shadow(0 0 5px #4dd0e1);"> </a>
-    <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="45" height="45" style="filter: drop-shadow(0 0 5px #aed581);"> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="45" height="45" style="filter: drop-shadow(0 0 5px #b2ff59);"> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" style="filter: drop-shadow(0 0 5px #64b5f6);"> </a>
-    <a href="https://react.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" style="filter: drop-shadow(0 0 5px #4dd0e1);"> </a>
-    <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" style="filter: drop-shadow(0 0 5px #aed581);"> </a>
+<div style="background-color: #212121; color: #e0e0e0; padding: 15px; border-radius: 8px; box-shadow: 0 0 5px #333;">
+    <p style="color: #aed581;">
+        A glimpse into the technologies and tools I've worked with:
+    </p>
+    <h3 style="color: #b2ff59;">&#x1F4BB; Programming Languages</h3>
+    <p align="left" style="padding-left: 15px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45" style="filter: drop-shadow(0 0 5px #b2ff59);" title="Java (Java 8)">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45" style="filter: drop-shadow(0 0 5px #aed581);" title="C">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45" style="filter: drop-shadow(0 0 5px #64b5f6);" title="C++">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" style="filter: drop-shadow(0 0 5px #4dd0e1);" title="Python">
+    </p>
+
+    <h3 style="color: #b2ff59;">&#x1F6E0;&#xFE0F; Tools & Technologies</h3>
+    <p align="left" style="padding-left: 15px;">
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="45" height="45" style="filter: drop-shadow(0 0 5px #aed581);" title="Spring Boot">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="45" height="45" style="filter: drop-shadow(0 0 5px #4dd0e1);" title="Apache Kafka">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45" style="filter: drop-shadow(0 0 5px #b2ff59);" title="Redis">
+        <img src="https://img.icons8.com/color/45/microservices.png" alt="microservices" title="Microservices">
+        <img src="https://www.vectorlogo.zone/logos/springframework/springframework-icon.svg" alt="springbatch" width="45" height="45" style="filter: drop-shadow(0 0 5px #64b5f6);" title="Spring Batch">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" alt="maven" width="45" height="45" style="filter: drop-shadow(0 0 5px #4dd0e1);" title="Maven">
+        <img src="https://raw.githubusercontent.com/swagger-api/swagger-
